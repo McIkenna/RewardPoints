@@ -1,0 +1,21 @@
+.inputContainer{
+    width : 200px;
+    height: 50px;
+}
+
+.input{
+    
+
+}
+
+.displayContainer{
+    width: 100px;
+    height: 50px;
+    
+
+}
+
+.display{
+    background-color: aqua;
+    color: rgb(21, 21, 46)
+}
